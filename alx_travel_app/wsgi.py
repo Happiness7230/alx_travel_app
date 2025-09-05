@@ -1,4 +1,3 @@
-
 """
 WSGI config for alx_travel_app project.
 
